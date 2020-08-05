@@ -2,11 +2,20 @@
 
 * {
   font-family: 'Anton', sans-serif;
+  margin: auto;
 }
 
 .header-title {
+  color: white;
   text-align: center;
   font-size: 40px;
+  padding-top: 20px;
   height: 50vh;
-  background-image: url(./images/headerbackground.jpg);
+  background-image: url(./images/nightbackground.jpg);
+  background-position: bottom;
 }
+
+.form {
+  text-align: center;
+}
+
